@@ -1,0 +1,3 @@
+- npm install nodemon --save-dev
+
+untuk menginstal dalam devDependencies
